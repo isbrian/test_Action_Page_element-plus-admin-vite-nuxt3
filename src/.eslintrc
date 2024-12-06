@@ -1,0 +1,7 @@
+{
+  "extends": "@antfu",
+  "ignorePatterns": [
+    "content/**/*.md",
+    ".vscode/*.code-snippets"
+  ]
+}
